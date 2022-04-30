@@ -1,0 +1,2 @@
+# book-me-cinema-ticket-reservations
+Cinema tickets reservation system (distributed system) called "BookMeCinema". The application works in conjunction with the relational database model. The system has the ability to run it on several instances at the same time.  The main goal of the project is to provide employees and customers with a comfortable, simple and intuitive program for managing the cinema tickets booking system.
