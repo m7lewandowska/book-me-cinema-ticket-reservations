@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookMeCinema", "BookMeCinema\BookMeCinema.csproj", "{6309E879-7B7E-4979-8665-024C904AD259}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookMeCinema_UnitTests", "BookMeCinema_UnitTests\BookMeCinema_UnitTests.csproj", "{0C89C8A6-1804-473E-AF10-00203F30E44C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6309E879-7B7E-4979-8665-024C904AD259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6309E879-7B7E-4979-8665-024C904AD259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6309E879-7B7E-4979-8665-024C904AD259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6309E879-7B7E-4979-8665-024C904AD259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C89C8A6-1804-473E-AF10-00203F30E44C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C89C8A6-1804-473E-AF10-00203F30E44C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C89C8A6-1804-473E-AF10-00203F30E44C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C89C8A6-1804-473E-AF10-00203F30E44C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90E7B4D1-5FD9-4E0D-8599-D44D4007634E}
+	EndGlobalSection
+EndGlobal
